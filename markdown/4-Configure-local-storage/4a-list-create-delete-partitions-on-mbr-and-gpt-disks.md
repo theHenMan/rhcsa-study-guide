@@ -18,7 +18,7 @@ A master boot record (MBR) is a special type of boot sector at the very beginnin
 
 MBR - Master Boot Record
 + Can only hold 4 primary partitions
-+ Can only address up to 4TB of disk space
++ Can only address up to 2TiB of disk space [Wikipedia](https://en.wikipedia.org/wiki/Master_boot_record#:~:text=The%20organization%20of%20the%20partition%20table%20in%20the%20MBR%20limits%20the%20maximum%20addressable%20storage%20space%20of%20a%20partitioned%20disk%20to%202%C2%A0TiB%20(232%C2%A0%C3%97%C2%A0512%C2%A0bytes))
 
 ### Manipulating MBR Partitions
 
